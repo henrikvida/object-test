@@ -2,9 +2,10 @@
   padding:0
 }
 .move-me {
-width: 100px;
-height: 100px;
-background-color: blue;   
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  position: relative;
 }
 .section-1{
   widht: 100%;
